@@ -1,0 +1,5 @@
+#visual studio code Settings folder
+.vscode
+
+#passwords file
+passwords.php
